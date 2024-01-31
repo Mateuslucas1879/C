@@ -5,8 +5,12 @@
 #### Tópicos avançados:
 
 Programação em rede (sockets e protocolos)
+
 Programação gráfica (GUI) com bibliotecas como Qt ou wxWidgets
+
 Programação de jogos com bibliotecas como SFML ou OpenGL
+
 Programação de baixo nível (acesso direto à memória, otimizações)
+
 Integração com outras linguagens (por exemplo, C++/Python)
 
